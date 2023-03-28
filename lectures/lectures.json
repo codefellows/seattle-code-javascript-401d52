@@ -1,0 +1,662 @@
+{
+  "lectures": {
+    "module-01": {
+      "class-01a": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/-IwmaC0Oks4Zprt5DaW93cJQI8v6UNLCo4reZT5k2-VzWvfQjOVCbGOld2L26nbo.tUXX2UjCczpUM15n?startTime=1669654835000",
+          "passcode": "Q54krdJu%5",
+          "date": "1669654835000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-01b": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/G8Ol_AqvyA0fYUcq1H_clH4rvVcE-3nu2_WK2zuBaYOIoB5MjhyKBt91-L8AdTxb.t59ZWcTpoSAfBwDN",
+          "passcode": "jt60BEVw1Y",
+          "date": "1669672885000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-02": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/36iqTNcICbR2RkGsU67veHExdwa2lL7KvoszQbXSv4BV0mWvTP23n_buJ_eo7t24.PFzIG7olX7WfPECO?startTime=1669742455000",
+          "passcode": "Z0Y4QRCVKX",
+          "date": "1669742455000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-03": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/ZvL32fVC87TF5ScYWqkhRiFqWp2OMrxKNdq3FPmiK2mo6Ogay2HFBGdU5nJ0848.Z0ZIsXVnVrVXmNFq?startTime=1669827607000",
+          "passcode": "4EcsKCvpsn",
+          "date": "1669827607000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-04": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/X55KQ-ysFJujN4IaCf_yM6iFNvH8AecoPUX06WqlpKFuhtgvn2iMNMAYwP94Fnul.wTD0_GGd0iHME0Wn?startTime=1669914000000",
+          "passcode": "4mWu0.Jtm6",
+          "date": "1669914000000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-05-career-coaching-workshop-01": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/KKgZUCJV0dnQTWqfCt1z9msZgDIXoGxLPFkvV189lmcFv88jvpJmNRdziBGPlcog.U2gy7mJCB48hpHOf?startTime=1670000560000",
+          "passcode": "aYi1d1An9B",
+          "date": "1670000560000",
+          "instructor": "JB Tellez"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-05-dsa-linked-lists": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/eCmGuL96KIO_aHqiG4gwTkZYJDNh2-hkk8TKq5WnnN-iF8xmNnXOTII7gLtpRkxh.IZJq4N488uk8FOiF?startTime=1670018364000",
+          "passcode": "$Wbj9NX9uL",
+          "date": "1670018364000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "date": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Hu5lc31WJJQtcbJDSezJCu6p6JHFpCkzzytpgDKtbGU7HETwfxlybg43GtnvfHhz.5qU3R7hwKfLVWIO2?startTime=1670260504000",
+          "passcode": "QV5?E9yJB4",
+          "timestamp": "1670260504000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-07": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/GigmEfaGaqXwKSEvAxWSTcebHCLgO0YSFaD2jK4P7jb_LhNqaa8ubKb8IyHL8dC3.E7Brkyi7tNn7AsbG?startTime=1670346016000",
+          "passcode": "sMiJpc.9a1",
+          "timestamp": "1670346016000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-08": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/E_iK2kTM5BtPIeKCSHQltGW51dwlfzHTh-yA8FbhpaeqQkPIsYjpgjcaJ5dDbM-w.RORP8JrYItXMqYdi?startTime=1670432421000",
+          "passcode": "x#G5exWvZa",
+          "timestamp": "1670432421000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-09": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/QANJO8nWAdT_yW-rn6RM0ZHs1uJcQbXL34YGjU7eyWarKDd_aUdeEuS02FUeCBsD.v0XWkQTe1EDyNhnP?startTime=1670518868000",
+          "passcode": "Z5N+q@Jse8",
+          "timestamp": "1670518868000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-10-career-coaching-workshop": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/AqxKaE-xcRYRuzTYYhpNzacRNMuJvLM6QDfxl7Dg_9dbOpqaub2OWPDwT1ykdTXi.p6MNntVdtJKN_-kO?startTime=1670623314000",
+          "passcode": "3LfpgXGH6d",
+          "timestamp": "1670623314000",
+          "instructor": "Dr Robin Apparicio"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-10-dsa-stacks-and-queues": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/eHcS0gRAvP58zvoC3-xQc-BZJNxCxnUNY6YhrSJlV3-mGNuV-Izfj6x1GiQcP2xN.RBLAKcUtLldmcS8u?startTime=1670605268000",
+          "passcode": "q7zSx2&i10",
+          "timestamp": "1670605268000",
+          "instructor": "JB Tellez"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/-1yv8Ubdo-eZXTqbVXhPHdh8k5iN96eTFf4v3RArevA9aio0Hhdvzc5-T_BoIrkZ.jeb4DoV-LMDKEh_s?startTime=1670864412000",
+          "passcode": "0#G*9v7Ev8",
+          "timestamp": "1670864412000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-12": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/l5voAnPwzOOYQChVKxdL2hHghTT8Yarl9FPUz_KxOIf2rgARo9elHeBXHbogh1Hg.hGasU0jG3PrCHFAC?startTime=1670950806000",
+          "passcode": "X2D4C=F4bI",
+          "timestamp": "1670950806000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-13": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Ot9RxOUA58vKzEgbzfn5oIfRN5NT1BmwKRjo2ND-qiRhONB3RZFYzqJG66fI0BtJ.8ZvAXXOPoc0Pjiac?startTime=1671037286000",
+          "passcode": "oM39*+bL=U",
+          "timestamp": "1671037286000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-14": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/XzHZZjJemIA_6eWymuwQUrWV4A7FvwDZOZNAk2sWNtSsZoCo7BlRZXZNZOqSH8D9.gQolrlWFHexoldzO?startTime=1671128265000",
+          "passcode": "zGG2m60J1G",
+          "timestamp": "1671128265000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-15-career-coaching-workshop-03": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/V-Y-k-EAK24j6gDUotTLPUjPAq3U_7ivPTyV3KUCP4Hi-wca_FrAOkQXuuv_hjQx.cKG7tSvKl780sEKq?startTime=1671210036000",
+          "passcode": "*0@ik+KX2V",
+          "timestamp": "1671210036000",
+          "instructor": "John Cokos"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-15-dsa-trees": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/0_5jjjPbVqdeHfy401fCK5sEhKHEP43aDVd-9KfUmwPNW_CTrqRWgLq-FUA1CjNT.YVda5MMJKLtFZs0v?startTime=1671228113000",
+          "passcode": "EK7wx7j+sx",
+          "timestamp": "1671228113000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-04": {
+      "class-16": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/gExiPc9VNOFLOopQSokUOu4VWqKO3UffcSVIEjzBG4pU87G-9GQFGB0DLfIi5xbb.BELTs1tIQ42RWkA2?startTime=1671469269000",
+          "passcode": "HAjrtd3d=V",
+          "timestamp": "1671469269000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-17": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/hZ43rIBdOWg2YOKqH2IboTufCtKgCgoOTEHIlgRX62uOgk6z1sPhWgOm2XPHDrOX.ok0rBFVBUfDL-4LM?startTime=1671555723000",
+          "passcode": "^H0wKX7$9s",
+          "timestamp": "1671555723000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-18": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/NMIh5XJzAwTQSkKCUEf_LsR1arrxDejWfcKhp_r9AtyZQLiWN8MB9jEuTshiYcbF.zlu0jN9cQHJotRM6?startTime=1671642153000",
+          "passcode": "12TTaHZD6P",
+          "timestamp": "1671642153000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-19": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/0F_uyqAYc8mtzTFciD4FEP8-uYrwBpW8cfaZZDILUq8oAVpn9Qq1ykDJF-Sfwlkv.xhmhsPWAbueEYLbo?startTime=1665676848000",
+          "passcode": "2Qqq@N0X3t",
+          "timestamp": "1665676848000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-20": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/klKKDKO4eOX-an1Ik_JLc10ImnctpCuDGdLsGn_8PKwBBSdrOUW4gtpHJJkNK_aY.fxK6ItTTF2vUZ7N4?startTime=1665763208000",
+          "passcode": ".pVWcFp*q2",
+          "timestamp": "1665763208000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-06": {
+      "class-26": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/OJsoFtExrzYkZ04kEePWnimVaw8-zrZlPNvpOlm8k1w_7YNW_4BinZZgslw1kNLQ.1EKmRROksytawXXb?startTime=1672678807000",
+          "passcode": "J@f@z6vmVt",
+          "timestamp": "1672678807000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-27": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/ayFiTpYH7p_DXXkUKxI-6p7_WdeRTdjUFrZt1dq8iICvfw_sEf4JbzzVwrI1I9lj.sA6hq_ky4ciaXC3G?startTime=1672765215000",
+          "passcode": "9xG2$vk02a",
+          "timestamp": "1672765215000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/8CqcykLqNGd_n2Opz5eqmR8GYpJWFmURXPMjUS6b0viMHK3ykH2RDlcrn5d_g-BT.y-s6OtJQxeY59nUE?startTime=1666713640000",
+          "passcode": "5Cd*%ZG5Jb",
+          "timestamp": "1666713640000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-28": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/GcSMO70ZmAEuCFVT7HCO6rIpaexlWDqi3xXx38LOnCyAsva621zx76GMX-KP8BZO.w6ZKcnWLw9hrjfS1?startTime=1672851616000",
+          "passcode": "qDE2Y%fwY=",
+          "timestamp": "1672851616000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/Dn6v6V85ulwyzdP68KE0HyOZgb2qQ8VzUg7yLI3YcQ0ThcIMhLR5mlyD2tUgno78.--sZQ5zBCzrVdnnS?startTime=1666800017000",
+          "passcode": "kybfcsS1r9",
+          "timestamp": "1666800017000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-29": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/GyCYDmnPBpzrZAQJhM8EfuGMWnP1kx_d6lz-eDaZhN6IZ-aG0tVqiaMlFzRnhvng.qpYRcO6kf2fiXjOR?startTime=1672937986000",
+          "passcode": "RFM7B$3vi4",
+          "timestamp": "1672937986000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/2Mz6m1AzY4-gXOB24ZK0wQ7xF6vy7styAkp-FOnVrx_mDM056ys2pbwittMqKt67.KnotgWlhcXjG1bzD?startTime=1666886447000",
+          "passcode": "jbhpcU.3Yq",
+          "timestamp": "1666886447000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-30-career-coaching-workshop-04": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/LRVJjFzU3-zT385PXB7FMs7kp3mHPcUho_WKWMyPtnxigU-4vg1GlteOqNaK2RgC.saPkMNDKF56A58LW?startTime=1673042599000",
+          "passcode": "40Zg+4Xvnt",
+          "timestamp": "1673042599000",
+          "instructor": "Dr Robin Apparicio"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-30-dsa-hashTables": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Nd-I_92ynaaeY79yXQwwlXZTPUDGn9CaPGx9gTYAb9nusEqPsuUO0Uihm6wy9keb.Q4cOj9FFnnbODUve?startTime=1673024467000",
+          "passcode": "97pQGc@kX4",
+          "timestamp": "1673024467000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-07": {
+      "class-31": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/NGVBswr9NIn2qFSu9Er7wQt296E8Pdz72GxQR8U60gkR-UM_sYbFrAdxRx9S_sKF.Dvl1E8FJjnlXwx-Y?startTime=1673283629000",
+          "passcode": "c%cf1.iRq8",
+          "timestamp": "1673283629000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/YjEtRHYovNilN8Fiz9MezyvzX0VZ6t0AUqN1C7YfGMcgnSUf1m-aOrvrISzIvJ_l.FTKScdKgXqAhuOPS?startTime=1667232075000",
+          "passcode": "mvz172.Be@",
+          "timestamp": "1667232075000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-32": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/52mFYIBirISBENoIE0dIizI_lB26OmhOb4gXtdtKHiDLdsoZTzlb60aqHw_ozbmz.7HpQ-QwWBtxmfZA9?startTime=1673370021000",
+          "passcode": "txVRYFu95b",
+          "timestamp": "1673370021000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/VUSQ0Fnvwi1Kec61mA_1PivKDNACbmsT5kBpKPpG2EBQb7rxwoFWA2nuX4wbSKqW.tt-nS5YEXmokjed3?startTime=1667318567000",
+          "passcode": "JpWRH=85%!",
+          "timestamp": "1667318567000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-33": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/5ZIJ1ipse6fmT8Xnm_1TyIP5t0-SyhAi3RN3gqW2MaAm5jDMr4QQchmQicdf6Il6.f3qMxMTAAu-4R2cr?startTime=1673456430000",
+          "passcode": "5e&g8fRtc0",
+          "timestamp": "1673456430000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/aiSREU8XqOpdrvrdLsJP4lBC1Tb8CpnjnB-QKuotG7z7mE5Om0_-InSidmvJvnfO.RRyRxLsuZT1PGJje?startTime=1667405807000",
+          "passcode": "cy1LgaG9cu",
+          "timestamp": "1667405807000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-34": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/p2k2MrDf_IDF4DYPXxhhx5-BzbMvDzkpV9JVmvtBgdNF_5bP790S8C1tIWAQZYpS.M9zaNx-mhHgIcFBX?startTime=1673542822000",
+          "passcode": "F6n92fbdnU",
+          "timestamp": "1673542822000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/pauPJxgVJmXOlaz1vXnYRYIW1_9W0zsGM_KdZ6thupWiv0oxw9niXefiBSk6iTD0.ft6AY6MW8sh0gWSA?startTime=1667492255000",
+          "passcode": "m^Na5oWd#R",
+          "timestamp": "1667492255000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-35-career-coaching-workshop-05": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/TqRgmYhNFxU2skeF1j58nEsHf-480VDjfrSaPJilgG99UFL9P8bPP62I28KUEn0D.gGwQuyA5wk7MNsAm?startTime=1673647215000",
+          "passcode": "$QpBvy71V9",
+          "timestamp": "1673647215000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/DLRJ9aMy7adAkuSqfvhcncW1mb0WqDzcwzP5sATMxVn6LAj3USVHhnVX4CEVrp0_.wiUILPpMIxzMYv5o?startTime=1667593942000",
+          "passcode": "Q2v.+ZkRv4",
+          "timestamp": "1667593942000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-35-dsa-graphs": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/SgNcVpNPfp-tm5JZ5rvF3j4h1LdCGvic18lG8eSnS3-ZCarzq_m0trKHU0rQtSpN.VaMTg3MN_Ojm2iHm?startTime=1673630014000",
+          "passcode": "%MC!VC6^v?",
+          "timestamp": "1673630014000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/DLRJ9aMy7adAkuSqfvhcncW1mb0WqDzcwzP5sATMxVn6LAj3USVHhnVX4CEVrp0_.wiUILPpMIxzMYv5o?startTime=1667593942000",
+          "passcode": "Q2v.+ZkRv4",
+          "timestamp": "1667593942000",
+          "instructor": "Ryan Gallaway"
+        }
+      }
+    },
+    "module-08": {
+      "class-36": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/SJFS2AY1JfjwH5pmwpV148J-mjHN7Agb9n9XeI_Kv_mPXcPln8vjx1DTEtULSgZJ.j7crkBEmbGMviXbO?startTime=1673888692000",
+          "passcode": "!y94tU6?gj",
+          "timestamp": "1673888692000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/BwhNnPEZjfZUawuy9EKzCaAqQvoaVARnu9bzkD9Lh2AsZG7pHxn1vuVY4Q1tlLo9.cvpODRnoFjN1uFar?startTime=1667840515000",
+          "passcode": "L2&*6#wB@t",
+          "timestamp": "1667840515000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-37": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/rD-kHzI78UNCi42wUx-g7GcBFdtEurDxjcxpsG_cDzzfIXw9mhWz1zS0qhzSaOVA.2eVXVCoLaMR7CWSK?startTime=1673974835000",
+          "passcode": "SHHpNM7vmj",
+          "timestamp": "1673974835000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/jQ_SGUdC8M4ZthuIBbEoO61yESUJKR_kI8hyidUGRF3_FWuF5z7EcI0mqxgg3jlH.q6PoYqsyV2mfZi5w?startTime=1667926830000",
+          "passcode": "#u%ATuaZ29",
+          "timestamp": "1667926830000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-38": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/49wGG--cwbzcyPYzDOICA8A_7k78-a5BXhPU9X8jM6VqhLuoSukXvE4kVuxwsqI6.j7qI4VHdhQyXT6Kc?startTime=1674061317000",
+          "passcode": "X$CdNmg5ya",
+          "timestamp": "1674061317000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/iUeY2Yst-4Z3qbc1im-N2uj5CBs4ZX1hLRTpOE0GtEKPOLtB8dTSLf-LF1FM2AqU.SW_koC5ledGEMOgR?startTime=1668013215000",
+          "passcode": "Wstu5YXv74",
+          "timestamp": "1668013215000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      "class-39": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/FFJqzbdOeegJn612KDp-UF5kkbRuRp9LNOsVBbSl1pgalB2cYEP60NmbV8YsMmXb.VzGb5A1WvOiIKXOi?startTime=1674147699000",
+          "passcode": "v2AsmVb=sN",
+          "timestamp": "1674147699000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/0F_uyqAYc8mtzTFciD4FEP8-uYrwBpW8cfaZZDILUq8oAVpn9Qq1ykDJF-Sfwlkv.xhmhsPWAbueEYLbo?startTime=1665676848000",
+          "passcode": "2Qqq@N0X3t",
+          "timestamp": "1665676848000",
+          "instructor": "Ryan Gallaway"
+        }
+      },
+      
+      "class-40-coaching-workshop-06": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/KeFatZl6pydnB76HQF366BhGubPZwCBDAkEDr9cLZ61xC8Kcfz7DT3yb2Tt-gCLk.LOILrqfZBbDtxq49?startTime=1674234109000",
+          "passcode": "JCYPi4K98e",
+          "timestamp": "1674234109000",
+          "instructor": "JB Tellez"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-09": {
+      "class-41": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/ylRTx6N_OGN56wJrd9N4tBSsNttxN3pk5_uDRomP7whztUIeArml9IbU-aBwCX-n.UxFwaQxJbFwnE00T?startTime=1674493253000",
+          "passcode": "L#5&KRgF5G",
+          "timestamp": "1674493253000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-42": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/YssSZCV1Swnd0w1LvbPATPOaSbiKbAmBN_EIjm9Kx8WUXkGsXnqFLZEzniF1T6U.5J-jxOcTWkCBdNDp?startTime=1674579798000",
+          "passcode": "GXdjp2C&Zr",
+          "timestamp": "1674579798000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-43": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/BSk03SlfDdfDhv-1dHawEK1Q04aBY-ZaoLZmcV7Si-2WkSMwQ75K1w88pmhHE3in.FkHwugBV8GC3dM1H?startTime=1674666022000",
+          "passcode": "5L1M+Th=aM",
+          "timestamp": "1674666022000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-44": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/yKjlK6E961wyABbiIKueupVIyjWUXsAQLpCTT6-Yju7QZQT5FEY6rw-hrHKm7KXC.g1SLh67eCx0EHriv?startTime=1674752572000",
+          "passcode": "68Fegz3hf9",
+          "timestamp": "1674752572000",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-45": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/wl4kg4hyFfvhGc0UtWkXjR4hxYUZKGnd9Au0L8xzcnU9XO8KT2YNPmyVSUy5Oi8.606X6UyIynlSMUg9?startTime=1674838827000",
+          "passcode": "4^9rrcDK94",
+          "timestamp": "1667328823268",
+          "instructor": "Ryan Gallaway"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OTHER-URL",
+          "passcode": "insert-here",
+          "timestamp": "1667328823268",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    }
+  }
+}
