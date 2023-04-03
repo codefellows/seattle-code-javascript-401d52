@@ -1,12 +1,17 @@
 # Warm Up
 
-The **shredder** library ($$)
+Extending the `Array.prototype.map` function.
 
-## `$$.map()` method
+## `map()` with Arrays and Objects
 
-Takes 2 arguments: An array or object and a callback.
+This function will implement the same functionality as `Array.prototype.map`, but be usable for both Array and Object data structures.
 
-Returns a new structure matching the old, based on the return value of the callback.
+Our function will define 2 parameters:
+
+- `data` - Array or object containing any type and number of values.
+- `cb` - Function to be called on every item in the `arr` array.
+
+The return value is new structure that is the same type as `data`, each value in the new structure is the return value of the callback.
 
 For Arrays, the input should be an array and a callback that receives `value` and `index` as parameters.
 
@@ -14,7 +19,8 @@ For Arrays, the input should be an array and a callback that receives `value` an
 
 ```javascript
 let array = [1,2,3,4];
-$$.map(array, (val,idx) => {
+
+let newArray = map(array, (val,idx) => {
   return val * val;
 });
 
@@ -31,8 +37,8 @@ let obj = {
   sunny: "no",
 };
 
-$$.map(obj, (key, val) => {
-  return val.toUpperCase;
+let newObj = map(obj, (key, val) => {
+  return val.toUpperCase();
 })
 
 // { hot: "YES", sunny: "NO" }
