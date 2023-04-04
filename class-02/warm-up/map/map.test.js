@@ -1,6 +1,32 @@
 'use strict';
 
-const map = function () {}
+const map = function (collection, cb) {
+
+  if (Array.isArray(collection)) {
+    // we know that our collection is an array, and we can create a new array
+    let newArray = [];
+    for (let i = 0; i < collection.length; i++) {
+      newArray.push(cb(collection[i], i));
+    }
+    return newArray;
+  } else {
+    console.log('Or collection');
+    let keysArrays = Object.keys(collection);
+    let newObj = {};
+    // for (let i =0; i < keysArrays.length; i++) {
+    //   let key = keysArrays[i];
+    //   let value = collection[key];
+    //   newObj[key] = cb(key, value);
+    //   return newObj;
+    // }
+    for (let key in collection) {
+      newObj[key] = (cb(key, collection[key]));
+    }
+    return newObj;
+
+  }
+
+}
 
 describe('Testing the map function', () => {
 
