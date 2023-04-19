@@ -1,0 +1,27 @@
+name: Run Javascript Tests
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        # adjust appropriate Node version(s) as necessary. i.e. [18.x] or [16.x, 18.x, 19.x]
+        node-version: [18.x]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: npm install, build, and test
+      run: |
+        npm i
+        npm run build --if-present
+        npm test
+      env:
+        CI: true
