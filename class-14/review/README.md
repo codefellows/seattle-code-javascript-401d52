@@ -28,3 +28,8 @@ Emits payloads as a flower store client.
 Emits payloads as a widget store client.
 
 `npm run widgets`
+
+## TODO
+
+* Add `catchup-deliveries` event for vendor clients.
+* Complete `received` event to be emitted by vendor clients to confirm payloads are delivered.
