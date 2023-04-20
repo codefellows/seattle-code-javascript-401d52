@@ -5,5 +5,20 @@
     "jest": "^29.5.0",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
-  }
+  },
+  "name": "review",
+  "version": "1.0.0",
+  "main": "driver.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server",
+    "driver": "node driver.js",
+    "flowers": "node flowers.js",
+    "widgets": "node widgets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

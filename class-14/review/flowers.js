@@ -21,7 +21,3 @@ subscribe('delivered', console.log);
 trigger('join-room', payload);
 
 trigger('pickup', payload);
-
-
-
-
