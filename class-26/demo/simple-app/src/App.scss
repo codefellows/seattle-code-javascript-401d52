@@ -1,0 +1,9 @@
+@import './styles/colors';
+
+.App {
+  text-align: center;
+
+  p {
+    color: $primaryFontColor;
+  }
+}

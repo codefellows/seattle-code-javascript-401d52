@@ -1,0 +1,21 @@
+// $backgroundColor: grey;
+$borderValues: thin solid yellow;
+// $primaryFontColor: red;
+@import '../styles/colors';
+
+@mixin themeBorder($color) {
+  background: $color;
+  box-shadow: 0 0 1px rgba(black, .25);
+  color: grey;
+}
+
+.my-list {
+  background-color: $backgroundColor;
+  // border: $borderValues;
+  @include themeBorder($color: blue);
+
+
+  h2 {
+    color: $primaryFontColor;
+  }
+}
