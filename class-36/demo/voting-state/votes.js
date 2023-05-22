@@ -1,6 +1,6 @@
 'use strict';
 
-const initialState = {
+let initialState = {
   candidates: [{name: 'Jacob', votes: 0}, {name: 'JB', votes:0}, {name: 'Sheyna', votes: 0}],
   totalVotes: 0,
   hasVoted: false,
@@ -12,10 +12,11 @@ function voteReducer(state = initialState, action) {
     case "INCREMENT_VOTE":
       return {
         candidates: state.candidates.map(candidate => {
-          if (candidate.name === action.payload) {
-            candidate.votes += 1;
+          let obj = {...candidate}
+          if (obj.name === action.payload) {
+            obj.votes = obj.votes + 1;
           }
-          return candidate;
+          return obj;
         }),
         totalVotes: state.totalVotes + 1,
         hasVoted: true,
@@ -23,12 +24,11 @@ function voteReducer(state = initialState, action) {
     case "DECREMENT_VOTE":
       return {
         candidates: state.candidates.map(candidate => {
-          if (candidate.name === action.payload) {
-            console.log('CANDIDATE FOUND ', candidate);
-            candidate.votes = candidate.votes - 1;
+          let obj = {...candidate}
+          if (obj.name === action.payload) {
+            obj.votes = obj.votes - 1;
           }
-          console.log(candidate);
-          return candidate;
+          return obj;
         }),
         totalVotes: state.totalVotes - 1,
         hasVoted: false,
@@ -39,6 +39,5 @@ function voteReducer(state = initialState, action) {
 }
 
 module.exports = {
-  initialState,
   voteReducer,
 }
