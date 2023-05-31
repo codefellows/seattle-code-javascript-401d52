@@ -1,15 +1,19 @@
 import { useState, useEffect } from 'react';
 import { StatusBar } from 'expo-status-bar';
-// feature linking we can hook into
 import { StyleSheet, Text, View, Button, FlatList, SafeAreaView, Linking } from 'react-native';
+import { NativeBaseProvider } from "native-base";
+import AppBar from './components/AppBar';
+import ContactsList from './components/ContactsList';
+import AppMenu from './components/AppMenu';
 import * as Contacts from 'expo-contacts';
 
 export default function App() {
 
+  const [showMenu, setShowMenu] = useState(false);
   const [contacts, setContacts] = useState([
-    { name: 'Jacob', id: 1 },
-    { name: 'JB', id: 2 },
-    { name: 'Sheyna', id: 3 }
+    { name: 'Jacob', id: 1, phoneNumbers: [{ number: 1111111 }] },
+    { name: 'JB', id: 2, phoneNumbers: [{ number: 1111111 }] },
+    { name: 'Sheyna', id: 3, phoneNumbers: [{ number: 1111111 }] }
   ]);
 
   const call = (contact) => {
@@ -37,19 +41,18 @@ export default function App() {
   }, []);
 
   return (
-    <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>My Contacts</Text>
-      <FlatList
-        style={styles.list}
-        data={contacts}
-        renderItem={({item}) => <Button title={item.name} onPress={() => call(item)}/>}
-        keyExtractor={item => item.id}
-      />
-      <View style={styles.buttonBox}>
-        <Button title="Add Contact" onPress={() => console.log('Button Clicked!')} />
-      </View>
-      <StatusBar style="auto" />
-    </SafeAreaView>
+    <NativeBaseProvider>
+      <SafeAreaView style={styles.container}>
+        {/* Menu Goes Here */}
+        <AppMenu />
+        <AppBar title='My Contacts' />
+        <ContactsList contacts={contacts}/>
+        <View style={styles.buttonBox}>
+          <Button title="Add Contact" onPress={() => console.log('Button Clicked!')} />
+        </View>
+        <StatusBar style="auto" />
+      </SafeAreaView>
+    </NativeBaseProvider>
   );
 }
 
@@ -59,16 +62,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-  },
-  title: {
-    flex: 1,
-    color: 'blue',
-    fontSize: 40,
-    // backgroundColor: 'red'
-  },
-  list: {
-    flex: 2,
-    // backgroundColor: 'yellow'
   },
   buttonBox: {
     flex: 1,
